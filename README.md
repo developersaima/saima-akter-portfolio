@@ -6,7 +6,7 @@ A modern, responsive personal portfolio website built with **Next.js**, showcasi
 
 ## 🚀 Live Website
 
-🔗 https://saima-akter-dev.vercel.app
+🔗 https://saima-akter-portfolio.vercel.app
 
 ---
 
