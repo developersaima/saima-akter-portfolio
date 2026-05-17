@@ -43,8 +43,8 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: 0.2 }}
           className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16"
         >
-          <a href="#contact" className="btn btn-primary rounded-full px-10 py-3 shadow-xl shadow-indigo-500/20 text-white font-bold w-full sm:w-auto h-auto text-base">
-            Hire Me Today
+          <a href="/saima-resume.pdf" download className="btn btn-primary rounded-full px-10 py-3 shadow-xl shadow-indigo-500/20 text-white font-bold w-full sm:w-auto h-auto text-base">
+            Download Resume
           </a>
           <a href="#projects" className="btn btn-outline rounded-full px-10 py-3 hover:bg-white/5 w-full sm:w-auto text-gray-300 h-auto text-base">
             View Projects
