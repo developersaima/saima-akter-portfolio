@@ -42,7 +42,7 @@ export default function Contact() {
 
             <div className="glass-card p-4 rounded-xl border border-white/5 flex items-center gap-4">
               <div className="p-3 bg-emerald-500/10 rounded-xl">
-                <Image src="/whatsapp.png" alt="WhatsApp" width={20} height={20} />
+                <Image src="/whatsapp.png" alt="WhatsApp" width={35} height={20} />
               </div>
               <div>
                 <p className="text-xs text-gray-500 font-mono">WHATSAPP SECURE CHAT</p>

@@ -60,7 +60,7 @@ export default function Hero() {
           <a href={portfolioData.linkedin} target="_blank" rel="noreferrer" className="hover:text-white transition-colors" aria-label="LinkedIn profile"><FiLinkedin /></a>
           <a href={`mailto:${portfolioData.email}`} className="hover:text-white transition-colors" aria-label="Direct Email"><FiMail /></a>
           <a href={portfolioData.whatsapp} target="_blank" rel="noreferrer" className="hover:text-emerald-400 transition-colors" aria-label="WhatsApp secure chat">
-            <Image src="/whatsapp.png" alt="WhatsApp" width={24} height={24} />
+            <Image src="/whatsapp.png" alt="WhatsApp" width={35} height={24} />
           </a>
         </motion.div>
 
