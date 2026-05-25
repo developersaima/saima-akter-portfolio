@@ -41,6 +41,23 @@ export const portfolioData = {
 
   projects: [
     {
+      title: "MediQueue – Tutor Booking System",
+      description:
+        "MediQueue is a modern tutor booking platform where students can browse tutors, book learning sessions, and manage their scheduled classes easily.",
+      techStack: [
+        "Next.js",
+        "Express.js",
+        "MongoDB",
+        "Tailwind CSS",
+        "Better-auth",
+        "Daisy-ui",
+      ],
+      image:
+       "https://i.ibb.co.com/xqQYfmMY/mediqueue-clean.png",
+      liveLink: "https://mediqueue-client-19f5.vercel.app/",
+      githubLink: "https://github.com/developersaima/mediqueue-client",
+    },
+    {
       title: "SkillSphere – Online Learning Platform",
       description:
         "A modern and responsive online learning platform built with Next.js, where users can explore courses, view details, and manage their profile. SkillSphere focuses on skill-based learning like Web Development, Design, Marketing, Data Science and more.",
@@ -101,4 +118,3 @@ export const portfolioData = {
     },
   ],
 };
-
