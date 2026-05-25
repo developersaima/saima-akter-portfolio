@@ -34,7 +34,7 @@ export default function Navbar() {
           animate={{ opacity: 1, x: 0 }}
           className="text-2xl font-black tracking-tight text-gradient"
         >
-          {portfolioData.name.split(' ')[0]}.
+          {portfolioData.name.split(' ')[0]}
         </motion.a>
 
         <div className="hidden md:flex items-center space-x-8">
