@@ -13,9 +13,9 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-6">
         
         <div className="text-center md:text-left">
-          <span className="text-xl font-black text-gradient block mb-1">{portfolioData.name}.</span>
+          <span className="text-xl font-black text-gradient block mb-1">{portfolioData.name}</span>
 <p className="text-xs text-gray-500 font-mono">
-  Designed & Developed by Saima ✨
+  Designed & Developed by Saima
 </p>        </div>
 
         <div className="flex flex-wrap items-center justify-center gap-6 text-sm text-gray-400 font-medium">
